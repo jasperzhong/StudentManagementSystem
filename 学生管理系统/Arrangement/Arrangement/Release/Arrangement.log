@@ -1,0 +1,11 @@
+﻿  mylib.cpp
+mylib.cpp(170): warning C4018: “<=”: 有符号/无符号不匹配
+mylib.cpp(267): warning C4018: “<=”: 有符号/无符号不匹配
+mylib.cpp(888): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+mylib.cpp(888): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  6 of 268 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Arrangement.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Arrangement\Release\Arrangement.exe
